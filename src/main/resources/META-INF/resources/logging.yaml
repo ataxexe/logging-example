@@ -1,0 +1,16 @@
+samples:
+  level:
+    type: weight
+    values:
+      - weight: 5
+        value: trace
+      - weight: 10
+        value: debug
+      - weight: 40
+        value: info
+      - weight: 20
+        value: warn
+      - weight: 15
+        value: error
+      - weight: 10
+        value: fatal
