@@ -1,0 +1,2 @@
+JAVA_APP_JAR=logging-1.0-SNAPSHOT-runner.jar
+ARTIFACT_DIR=target
